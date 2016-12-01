@@ -1,6 +1,7 @@
 cv-project
 
 Steps :
+
 1. Save all the files in a folder.
 
 2. Go to the folder in terminal
