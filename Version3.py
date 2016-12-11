@@ -4,7 +4,6 @@ from matplotlib import pyplot as plt
 
 def matching (img1):
     img2 = cv2.imread('/home/janani/Documents/Images/CV_PROJECT/group.jpg',0)
-    # img2 = cv2.resize(img2, (0,0), fx=0.5, fy=0.5)
     template = img1
     w, h = template.shape[::-1]
     print w,h
