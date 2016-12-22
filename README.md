@@ -38,3 +38,15 @@ Steps :
 3. Run python script
 
 4. You change the image files and also try whether its working !!
+
+Version4 : Support Vector Machine
+
+Steps :
+
+1. Save all the files in a folder.
+
+2. Go to the folder in terminal
+
+3. Run python script
+
+4. You change the image files and also try whether its working !!
